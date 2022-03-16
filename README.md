@@ -11,6 +11,7 @@ MD-Office-Assistant致力于打造个性化的文件处理工具
 
 ## 安装和使用
 pip install -r requirements.txt
+ 
 python main.py
 
 ## 软件参考
